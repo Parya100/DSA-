@@ -8,10 +8,7 @@ int main(){
         {
             cout<<" *";
         }
-        // for (int j = n; j> 0; j--)
-        // {
-        //     cout<<" *";
-        // }
+       
         cout<<endl;
     }
     for (int i = n; i >0; i--)
@@ -20,10 +17,7 @@ int main(){
         {
             cout<<" *";
         }
-        //  for (int j = n; j> 0; j--)
-        // {
-        //     cout<<" *";
-        // }
+
         cout<<endl;
     }
     
